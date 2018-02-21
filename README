@@ -1,0 +1,11 @@
+# MovieApp
+===============================================================================
+
+This is app is made for educational purposes by 2 friends
+
+## Setup
+- Install Expo: https://expo.io/
+
+## Run Development
+- You can start the development server in the project root with:
+  $ exp start
